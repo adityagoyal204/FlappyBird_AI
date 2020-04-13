@@ -1,5 +1,6 @@
 # FlappyBird_AI
 Flappy_Bird_AI using Neat Algo
+
 Introduction
 
 The main aim of this project is to develop a Genetic Algorithm based approach for con- structing an AI which can play the Flappy Bird game much more efficient as compared to a normal human being.
